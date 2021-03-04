@@ -17,7 +17,7 @@ This is not enough in many use-cases, You also want the ability to take action b
 - _Allow_ or _Deny_ based upon Suricata-compatible IPS rules
 
 
-![Miztiik Automation: AWS Network Firewall for Url filtering](images/miztiik_automation_url_filtering_with_nw_firewall_architecture_000.png)
+![Miztiik Automation: AWS Network Firewall for Url filtering](images/miztiik_automation_url_filtering_with_nw_firewall_architecture_000_new.png)
 
 
 In this demo, We will build a architecture, similar to the one shown above. We will start backwards so that all the dependencies are satisfied.
